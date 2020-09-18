@@ -1,0 +1,2 @@
+# Crop-disease-detection-using-Machine-Learning-and-IoT
+The objective of the proposed project is to develop a product which detects crop disease even from a remote area. As of now, due to lack of proper knowledge, farmers in remote places face a lot of problems in early detection of plant diseases such as Powdery Mildew, Rusts etc which go unnoticed most of the time and cause severe problems. Herein we are planning to integrate Machine Learning and IoT to arrive at a solution for the identified problem and achieve our goal
